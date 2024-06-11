@@ -1,4 +1,4 @@
-LIST OF EXPERIMENTS:
+LIST OF EXPERIMENTS: 
 
 Fundamentals of NumPy, Pandas, and MatPlotLib
 Calculating values of random data using NumPy for mathematical formulas 1)Euclidean distance between two points 2) Dot Product of two Vectors 3)Solving a System of Linear Equations
